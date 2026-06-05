@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eyob-mulugeta)
 [![TikTok](https://img.shields.io/badge/TikTok-@wealth__hustle-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@wealth_hustle)
 [![Website](https://img.shields.io/badge/Academy-elitestartacadamy.com-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://elitestartacadamy.com/)
-[![Twitter](https://img.shields.io/badge/X-@eliteStart__solution-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/eliteStart_solution)
+[![Twitter](https://img.shields.io/badge/X-@eliteStart__solution-000000?style=for-the-badge&logo=x&logoColor=white)](https://t.me/eliteStart_solution)
 
 </div>
 
