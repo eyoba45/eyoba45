@@ -19,7 +19,7 @@
 
 I'm a final-year Computer Science & Engineering student, **founder of Elite Start Academy**, and **tech & business content creator** — I build real products, monetize them, and teach others how to do the same.
 
-- 🎓 **5th Year CSE Student** — graduating 2025
+- 🎓 **5th Year CSE Student** — graduating 2026
 - 🏢 **Founder** — [Elite Start Academy](https://elitestartacadamy.com/) · AI-powered development courses for Ethiopian students · paying customers
 - 📱 **Content Creator** — [@wealth_hustle](https://www.tiktok.com/@wealth_hustle) on TikTok · tech, business & online income content for Ethiopian audience
 - 🤖 **Currently focused on:** AI agents, workflow automation (n8n, Make.com), and Python bots
