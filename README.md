@@ -104,19 +104,7 @@ A production-grade fintech bot solving a real cross-border payment problem for E
 
 `Python` `Telegram Bot API` `Chapa API` `PostgreSQL` `Railway` `Webhooks`
 
----
 
-### 🎓 [CampusHub](https://github.com/eyoba45/CampusHub)
-> University coursework project — Component-Based Software Development (CBSD)
-
-Built as a lab project exploring monorepo architecture, shared component libraries, and modern full-stack tooling with a team of 5 students.
-
-**What I learned:**
-- 🏗️ Monorepo structure with Turborepo & pnpm workspaces
-- 🧩 Building and consuming a shared UI component library
-- 🔷 TypeScript across a multi-app codebase
-
-`TypeScript` `Next.js` `Turborepo` `shadcn/ui` `pnpm` `React`
 
 ---
 
