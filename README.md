@@ -24,8 +24,8 @@ I'm a final-year Computer Science & Engineering student, **founder of Elite Star
 - 📱 **Content Creator** — [@wealth_hustle](https://www.tiktok.com/@wealth_hustle) on TikTok · tech, business & online income content for Ethiopian audience
 - 🤖 **Currently focused on:** AI agents, workflow automation (n8n, Make.com), and Python bots
 - 🌍 **Location:** Ethiopia | Open to **remote work worldwide**
-- 💡 **Interested in:** AI development, automation, fintech for Africa
-- 📬 **Reach me at:** [your email here]
+- 💡 **Interested in:** AI development, automation, fintech for Worldwide 
+- 📬 **Reach me at:** eyobmulugeta1212@gmail.com
 
 ---
 
