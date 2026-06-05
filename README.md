@@ -82,7 +82,7 @@ I identified a gap in the Ethiopian market — people wanting to build with AI b
 **What I built & did:**
 - 🚀 Launched a live product with real paying customers
 - 📚 Created course content from scratch targeting the Ethiopian market
-- 📣 Built brand presence including [@eliteStart_solution](https://twitter.com/eliteStart_solution) on X
+- 📣 Built brand presence including [@eliteStart_solution](https://twitter.com/eliteStart_solution) on Telegram
 - 💰 Generated revenue as a solo founder while still a student
 
 *This isn't a side project — it's a business that proved I can identify a market, build a product, and find customers.*
