@@ -2,9 +2,9 @@
 
 # Hey, I'm Eyob Mulugeta 👋
 
-**Builder · Founder · Content Creator · Based in Ethiopia 🇪🇹**
+**Builder · Founder · AI Developer (Entry-Level) · Based in Ethiopia 🇪🇹**
 
-*I identify real problems, build solutions, and share what I learn — from fintech bots to AI education businesses.*
+*I identify real problems, build solutions, and ship them — from fintech bots to AI-powered document tools.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eyob-mulugeta-92b97435b)
 [![TikTok](https://img.shields.io/badge/TikTok-@wealth__hustle-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@wealth_hustle)
@@ -17,14 +17,13 @@
 
 ## 🚀 About Me
 
-I'm a final-year Computer Science & Engineering student, **founder of Elite Start Academy**, and **tech & business content creator** — I build real products, monetize them, and teach others how to do the same.
+I'm a final-year Computer Science & Engineering student, **founder of Elite Start Academy**, and currently deepening my skills in **applied AI engineering** — RAG pipelines, LLM tool-calling agents, and production deployment.
 
-- 🎓 **5th Year CSE Student** — graduating 2026
+- 🎓 **Final-year CSE Student** — Adama Science and Technology University, graduating 2026
 - 🏢 **Founder** — [Elite Start Academy](https://elitestartacadamy.com/) · AI-powered development courses for Ethiopian students · paying customers
-- 📱 **Content Creator** — [@wealth_hustle](https://www.tiktok.com/@wealth_hustle) on TikTok · tech, business & online income content for Ethiopian audience
-- 🤖 **Currently focused on:** AI agents, workflow automation (n8n, Make.com), and Python bots
+- 📱 **Content Creator** — [@wealth_hustle](https://www.tiktok.com/@wealth_hustle) on TikTok · 10,000+ followers · tech, business & online income content
+- 🤖 **Currently building:** RAG pipelines, LLM agents, FastAPI backends, and workflow automation (n8n)
 - 🌍 **Location:** Ethiopia | Open to **remote work worldwide**
-- 💡 **Interested in:** AI development, automation, fintech for Worldwide 
 - 📬 **Reach me at:** eyobmulugeta1212@gmail.com
 
 ---
@@ -37,74 +36,94 @@ I'm a final-year Computer Science & Engineering student, **founder of Elite Star
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Frameworks & Tools**
+**AI & Backend**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_LLM-F55036?style=flat-square&logo=lightning&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_DB-6E56CF?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**AI & Automation**
+**Frontend**
 
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
+
+**Automation & Bots**
+
 ![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 **Deployment**
 
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white)
-![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=flat-square&logo=python&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-### 📱 [@wealth_hustle](https://www.tiktok.com/@wealth_hustle) on TikTok — *Content Creator*
-> Tech & business content for Ethiopian audience
+### 🧠 [Document Intelligence](https://github.com/eyoba45/document-intelligence) — *AI-Powered Document Q&A Platform*
+> Upload a PDF, DOCX, or TXT file and ask it questions. Live and deployed.
 
-I create content around technology, online business, and income opportunities — specifically for the Ethiopian market where this information is hard to find in local context.
+A full Retrieval-Augmented Generation (RAG) pipeline built from scratch — document chunking, vector embeddings, semantic search, and LLM-based answers, served through a FastAPI backend and a React frontend.
 
-**What I do:**
-- 📲 Tech education and life hacks for everyday Ethiopians
-- 💼 Online business and income content grounded in real experience
-- 🛒 Practical content like AliExpress shopping guides (which directly inspired the alipay-bot)
+**What it does:**
+- 📄 Upload documents and have them automatically chunked and indexed into a vector database (ChromaDB)
+- 🔍 Semantic search with query expansion to find the most relevant content
+- 💬 Conversational Q&A grounded only in the uploaded document — no hallucinated answers
+- ⚡ Powered by Groq's Llama 3.3 70B for fast inference
 
-*My content comes from building real things — not theory.*
+**Live:**
+🔗 Frontend: [document-intelligence-frontend-snowy.vercel.app](https://document-intelligence-frontend-snowy.vercel.app)
+🔗 Backend repo: [github.com/eyoba45/document-intelligence](https://github.com/eyoba45/document-intelligence)
+🔗 Frontend repo: [github.com/eyoba45/document-intelligence-frontend](https://github.com/eyoba45/document-intelligence-frontend)
 
----
-
-### 🏫 [Elite Start Academy](https://elitestartacadamy.com/) — *Founder & Builder*
-> AI education platform for Ethiopian learners · Live · Paying students
-
-I identified a gap in the Ethiopian market — people wanting to build with AI but having no local, affordable resource — and built a business around it. Courses cover AI-powered development, Google Business Profile optimization, and personal branding, priced at 2,500 ETB for lifetime access.
-
-**What I built & did:**
-- 🚀 Launched a live product with real paying customers
-- 📚 Created course content from scratch targeting the Ethiopian market
-- 📣 Built brand presence including [@eliteStart_solution](https://twitter.com/eliteStart_solution) on Telegram
-- 💰 Generated revenue as a solo founder while still a student
-
-*This isn't a side project — it's a business that proved I can identify a market, build a product, and find customers.*
+`Python` `FastAPI` `Groq LLM` `ChromaDB` `Sentence Transformers` `React` `RAG`
 
 ---
 
-### 🤖 [AliPay ETB Bot](https://github.com/eyoba45/alipay-bot)
+### 🤖 [AliPay ETB Bot](https://github.com/eyoba45/alipay-bot) — *Personal Fintech Project*
 > Telegram bot that lets Ethiopians shop on AliExpress using Ethiopian Birr (ETB)
 
-A production-grade fintech bot solving a real cross-border payment problem for Ethiopian users. Built with Python, integrated with Chapa payment gateway, handles real orders and money.
+A production-grade fintech bot solving a real cross-border payment problem for Ethiopian users. Built with Python, integrated with the Chapa payment gateway, handles real orders and money end-to-end.
 
 **Key features:**
-- 💳 Chapa payment integration with webhook verification
-- 📦 Full order lifecycle management (place → track → complete)
-- 👤 User registration, balance tracking & referral system
-- 🛡️ Admin dashboard with order management commands
-- ⚡ Auto-recovery, uptime monitoring & database migration tools
-- 🚀 Deployed on Railway with 522+ commits of iterative development
+- 💳 Chapa payment integration with full webhook verification
+- 📦 Complete order lifecycle: registration → balance tracking → order placement → tracking → completion
+- 👤 Referral system and admin dashboard
+- 🛡️ Auto-recovery, uptime monitoring, and database migration tooling
+- 🚀 Deployed on Railway with 500+ commits of iterative development
 
 `Python` `Telegram Bot API` `Chapa API` `PostgreSQL` `Railway` `Webhooks`
 
+---
 
+### 🏢 [Elite Start Academy](https://elitestartacadamy.com/) — *Founder & Builder*
+> AI education platform for Ethiopian learners · Live · Paying students
+
+Identified a gap in the Ethiopian market for accessible, affordable AI education and built a business around it — courses on AI-powered development, Google Business Profile optimization, and personal branding, priced at 2,500 ETB for lifetime access.
+
+- 🚀 Launched with 10–30 paying students as a solo founder
+- 📚 Created all course content from scratch
+- 📣 Built brand presence including [@eliteStart_solution](https://t.me/eliteStart_solution)
+
+---
+
+### 📱 [@wealth_hustle](https://www.tiktok.com/@wealth_hustle) on TikTok — *Content Creator*
+> Tech & business content for an Ethiopian audience · 10,000+ followers
+
+Grew an audience organically around technology, online business, and cross-border e-commerce (AliExpress) — content that directly validated the idea behind AliPay ETB Bot.
+
+---
+
+### 🗂️ [CampusHub](https://github.com/eyoba45/CampusHub) — *Monorepo Web Platform*
+> Component-Based Software Development project using a Turborepo monorepo
+
+A Student Portal and Admin/Faculty Portal sharing a common component library across both apps.
+
+`TypeScript` `Turborepo` `React`
 
 ---
 
@@ -120,21 +139,21 @@ A production-grade fintech bot solving a real cross-border payment problem for E
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Learning / Building
 
-- 🤖 Building AI agents with LangChain & OpenAI
-- ⚙️ Workflow automation with n8n and Make.com
-- 🔗 API integrations & webhook architecture
-- ☁️ Cloud deployment best practices
+- 🧠 RAG pipelines, vector databases, and LLM tool-calling agents (ReAct pattern)
+- ⚙️ Workflow automation with n8n
+- ☁️ Production deployment: Render, Vercel, Docker
+- 🔗 Multi-step AI agents that search the web and reason over results
 
 ---
 
 ## 💼 Open to Work
 
 I'm actively looking for **remote opportunities** as a:
-- Junior AI/Automation Developer
-- Python Developer (bots, APIs, backend)
-- Freelance Automation Consultant (n8n, Make.com, AI workflows)
+- Junior AI Engineer / AI Developer
+- Python Developer (APIs, backends, bots)
+- AI Automation Developer (n8n, LLM integrations)
 
 If you're building something interesting, let's talk.
 
