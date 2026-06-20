@@ -118,12 +118,20 @@ Grew an audience organically around technology, online business, and cross-borde
 
 ---
 
-### 🗂️ [CampusHub](https://github.com/eyoba45/CampusHub) — *Monorepo Web Platform*
-> Component-Based Software Development project using a Turborepo monorepo
+### 🔮 [Oracle](https://github.com/eyoba45/Oracle) — *AI Agent with Real-Time Tools*
+> An AI agent that searches the web, reads pages, and reasons step by step — built on the ReAct (Reason + Act) pattern.
 
-A Student Portal and Admin/Faculty Portal sharing a common component library across both apps.
+Unlike a regular chatbot limited to its training data, Oracle has real tools it can call: web search, webpage reading, date lookup, and calculation — then reasons over the results across multiple steps before answering.
 
-`TypeScript` `Turborepo` `React`
+**What it does:**
+- 🔍 Searches the web in real time using the Serper API (Google results)
+- 🌐 Reads and extracts content from any webpage
+- 🧠 Multi-step reasoning loop — decides when to use a tool vs. answer directly
+- ⚡ Powered by Groq's Llama 3.3 70B, served through FastAPI
+
+🔗 Repo: [github.com/eyoba45/Oracle](https://github.com/eyoba45/Oracle)
+
+`Python` `FastAPI` `Groq LLM` `Tool Calling` `ReAct Agent`
 
 ---
 
